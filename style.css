@@ -79,3 +79,7 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+#first-game {
+    background-color: rgb(8, 160, 8);
+}
